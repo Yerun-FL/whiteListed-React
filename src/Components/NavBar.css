@@ -1,0 +1,18 @@
+.MainNav {
+  background-color: #014271;
+  box-shadow: 0 3px 2.2px rgba(57, 57, 57, 0.855);
+}
+.MainNav h2 {
+  color: rgb(253, 253, 253);
+  padding: 17px;
+  text-align: center;
+}
+.SubNavBar-Mini {
+  background-color: rgb(211, 210, 210);
+}
+.SubNavBar-Mini p {
+  padding: 20px;
+  font-weight: 600;
+  margin-top: -9px;
+  text-align: center;
+}

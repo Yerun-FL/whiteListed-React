@@ -1,0 +1,23 @@
+.sec1 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 35px;
+}
+.whdm {
+  font-size: 27px;
+  font-weight: 650;
+}
+.inputFieldError {
+  border: 2px solid rgb(255, 1, 1) !important;
+  border-radius: 7px;
+}
+.actionSubmit {
+  border: none;
+  background-color: transparent;
+}
+.domainSt {
+  color: #013458;
+  left: 50%;
+  text-align: center;
+  top: 50%;
+}

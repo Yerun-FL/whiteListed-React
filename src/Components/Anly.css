@@ -1,0 +1,12 @@
+.dataCard {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* font-weight: 600; */
+  font-size: 17px;
+  background-color: rgba(252, 253, 255, 0.926);
+}
+.head-sec {
+  margin-top: 40px;
+  font-size: 25px;
+}

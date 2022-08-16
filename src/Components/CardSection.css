@@ -1,0 +1,31 @@
+.card-body {
+  display: flex;
+  justify-content: space-between;
+  border: none;
+  cursor: pointer;
+  /* width: 98%; */
+}
+.Card_fullBody {
+  margin-top: 6%;
+  /* width: 75%; */
+}
+h2 {
+  color: rgb(0, 179, 255);
+}
+h4 {
+  font-weight: 700;
+  font-size: 20px;
+  color: black;
+}
+.pp {
+  text-decoration: none;
+}
+.spinner-body {
+  left: 50%;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+}
+/* .rrr {
+  width: 99%;
+} */
